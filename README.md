@@ -14,9 +14,11 @@ Import numpy as convienience variable
 ### Step 4: 
 Print result.
 ## Program:
-Developed by:Bhuvaneshwaran H
-
-Register no:212223240018
+```
+#python program to find the inverse of a matrix
+#Developed by:Bhuvaneshwaran H
+#Register no:212223240018
+```
 ```
 import numpy as np
 A = np.array([[6,2,3],[3,1,1],[10,3,4]])
